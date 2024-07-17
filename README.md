@@ -14,6 +14,10 @@ CastView is a platform designed for managing casting requirements for various pr
 * Database: MongoDB
 * Authentication: JWT (JSON Web Tokens)
 
+Create .env with these values:
+
+MONGO_URL,JWT_SECRET,FRONTEND_URL,IMAGEKIT_PRIVATE,IMAGEKIT_PUBLIC,PORT
+
 ## frontend github
  [frontend github click here](https://github.com/devbyanurag/CastView-frontend)
 
